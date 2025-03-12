@@ -38,3 +38,15 @@ public class Cat : Animal  // Child class 2
         Console.WriteLine($"{Name} meows.");
     }
 }
+class Program
+{
+    static void Main()
+    {
+        Animal dog = new Dog("Buddy");
+        Animal cat = new Cat("Whiskers");
+
+        dog.Speak();  // Calls Dog's Speak method
+        cat.Speak();  // Calls Cat's Speak method
+
+    }
+}
