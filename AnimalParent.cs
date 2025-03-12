@@ -26,3 +26,15 @@ public class Dog : Animal
         Console.WriteLine($"{Name} has {legs} Legs.");
     }
 }
+
+public class Cat : Animal  // Child class 2
+{
+    public Cat(string name) : base(name)
+    {
+    }
+
+    public override void Speak()  // Override the Speak method
+    {
+        Console.WriteLine($"{Name} meows.");
+    }
+}
