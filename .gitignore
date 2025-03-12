@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Competetion2Practice/v17
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
+/.vs/Competetion2Practice/FileContentIndex
+/.vs/Competetion2Practice/CopilotIndices/17.13.431.34963/CodeChunks.db
+/.vs/Competetion2Practice/CopilotIndices/17.13.431.34963/CodeChunks.db-shm
+/.vs/Competetion2Practice/CopilotIndices/17.13.431.34963/CodeChunks.db-wal
+/.vs/Competetion2Practice/CopilotIndices/17.13.431.34963/SemanticSymbols.db
+/.vs/Competetion2Practice/CopilotIndices/17.13.431.34963/SemanticSymbols.db-shm
+/.vs/Competetion2Practice/CopilotIndices/17.13.431.34963/SemanticSymbols.db-wal
